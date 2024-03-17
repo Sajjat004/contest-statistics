@@ -5,7 +5,7 @@
 
 | Contest         | Rank  | Team Name         |
 |:----------------:|:-----------------------:|:----------------:|
-|`NCPC Bangladesh Finalist 2023`|52|[BSMRSTU_Suprobhat]()|
+|`NCPC Bangladesh Finalist 2023`|57|[BSMRSTU_Suprobhat](https://bapsoj.org/contests/ncpc-onsite-2023-hosted-by-ju/standings)|
 |`ICPC Asia West Continent Finalist 2022`|48|[BSMRSTU_DreamsOfSuccess](https://icpc.codedrills.io/contests/icpc-asia-west-continent-final-contest-2022/scoreboard)|
 |`ICPC Asia West Continent Finalist 2021`|44|[BSMRSTU_DreamsOfSuccess](https://icpc.codedrills.io/contests/icpc-asia-west-continent-finals-2021/scoreboard)|
 |`ICPC Dhaka Regional Contest 2023`|59|[BSMRSTU_Suprobhat](https://bapsoj.org/contests/icpc-dhaka-regional-site-2023/standings)|
